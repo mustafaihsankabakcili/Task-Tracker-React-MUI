@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Task-Tracker-React-MUI/static/css/main.5ca11668.css",
+    "main.js": "/Task-Tracker-React-MUI/static/js/main.a3f620a2.js",
+    "index.html": "/Task-Tracker-React-MUI/index.html",
+    "main.5ca11668.css.map": "/Task-Tracker-React-MUI/static/css/main.5ca11668.css.map",
+    "main.a3f620a2.js.map": "/Task-Tracker-React-MUI/static/js/main.a3f620a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ca11668.css",
+    "static/js/main.a3f620a2.js"
+  ]
+}
